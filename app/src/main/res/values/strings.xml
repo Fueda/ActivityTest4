@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ActivityTest4</string>
+    <string name="tag_text_default">TAG</string>
+    <string name="answer_text_default">Press GO and input your name</string>
+    <string name="answer_text_format">Hello %s,\nNice to see you.</string>
+    <string name="go_button_label">GO</string>
+    <string name="toast_no_activities_format">No activity class named %s.</string>
 </resources>
